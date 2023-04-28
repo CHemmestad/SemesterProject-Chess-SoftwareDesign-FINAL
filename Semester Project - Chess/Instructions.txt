@@ -1,0 +1,73 @@
+Quitting:
+Push the Esc key to quit the game
+
+Menu:
+Push the M key to open the board Menu
+Click on the board that you want and then push the M key again or the Enter key
+
+Cheat Codes:
+Push the Enter key to bring up the cheat code bar 
+Type in the cheat code you want to use and then push enter again 
+ - available cheats codes will be listed at the bottom of these instructions
+
+Moving a piece:
+Click on a piece and then click again on a highlighted spot to move the piece to that spot
+ - Highlighted red means kill
+ - Highlighted blue means move
+ - Note: Click on the same piece, an empty spot, or another piece to deselect your current piece or select a new piece
+
+Castling:
+When there are no other pieces in the way and when the King and the Rook you're castling with hasn't made a first move yet
+Click on the King
+The Rook you want to castle with will be highlighted as a valid move
+Click on the Rook to castle
+
+Computer move:
+Push the Spacebar for the computer to make a move for the current players turn
+ - Note: Computer does not make a move when turns is off
+
+Checked:
+You can only move valid pieces when in check
+Valid pieces will have a green border around them
+Click on them to see their valid moves and then make a move
+
+Adding pieces:
+You can only add pieces when in godmode
+The color of the piece is determined by what colors turn it is 
+Use cheat code "godmodeon" to turn on godmode 
+Then you can pick the piece that you want to add using the name of the piece as a cheat code (Example: "queen", "rook", "pawn", etc.)
+After picking the piece then click on an empty spot on the board to add that piece at that spot 
+Turn off godmode by using cheat code "godmodeoff"
+ - Use cheat code "nextturn" to change the color of the piece if you need to
+ - Note: You can not add Kings while in godmode
+
+Game over:
+Use the cheat code "reset" to reset the board and play again
+ - This cheat code can be used at any time not just when the game is over
+
+Custom board:
+Use cheat code "removeall" to remove all the pieces except for the Kings 
+Then use god mode to add the pieces you want to the board to make your own set up 
+
+Codes:
+Most are self explanatory I think
+"nextturn" - Switches which colors turn it is 
+"reset" - Resets all the pieces to their original spots
+"godmodeon" - Turns on godmode to add pieces
+"godmodeoff" - Turns off godmode to disable adding pieces
+"removeblacks" - Removes all black pieces except for the King at any time
+ - Note: Can only be activated after godmode is activated
+"removewhites" - Removes all white pieces except for the King at any time
+ - Note: Can only be activated after godmode is activated
+"removeall" - Removes all pieces except for the Kings at any time
+ - Note: Can only be activated after godmode is activated
+"turnson" - Turns on turn based moves (white moves then black moves then white moves....)
+"turnsoff" - Turns off turn based moves so white or black can make multiple turns in a row
+ - Note: Can only be activated after godmode is activated
+ - Note: When turn based moves are off the program still switches colors turns when a move is made 
+"deleteon" - Will delete any piece to click on
+ - Note: Can only be activated after godmode is activated
+"deleteoff" - Turns off the delete function
+
+ENJOY!!!
+p.s. Don't forget the magic word
